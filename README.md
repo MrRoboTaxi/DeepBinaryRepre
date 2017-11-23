@@ -2,7 +2,7 @@
 
 Source code of paper ['Deep Binary Representation for Efficient Image Retrieval'](https://www.hindawi.com/journals/am/2017/8961091/)
 
-This work is done by (Media Lab)[http://medialab.sjtu.edu.cn/] of Shanghai Jiaotong University.
+This work is done by [Media Lab](http://medialab.sjtu.edu.cn/) of Shanghai Jiaotong University.
 
 ## Statement
 
@@ -38,3 +38,4 @@ To run the code, for example: train 20 epoches,  use 100 query images to retriev
 python -W ignore retrieval.py -e 20 -t 1000 -q 100
 ```
 
+![Architecture](figure.png)
