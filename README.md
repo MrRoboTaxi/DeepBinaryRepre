@@ -10,7 +10,7 @@ This is the demo code of our image retrieval system. The code runs the training 
 
 ## Environment
 
-You need python 3.5 or later to run the code.
+Python is needed to run this code. Python 2.7 is tested and python 3.x should also work fine.
 
 All the packages needed are listed in requirements.txt.
 
