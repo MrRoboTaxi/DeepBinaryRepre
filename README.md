@@ -4,6 +4,10 @@ Source code of paper ['Deep Binary Representation for Efficient Image Retrieval'
 
 This work is done by [Media Lab](http://medialab.sjtu.edu.cn/) of Shanghai Jiaotong University.
 
+Welcome to cite our paper:
+
+Lu X, Song L, Xie R, et al. Deep Binary Representation for Efficient Image Retrieval[J]. Advances in Multimedia, 2017, 2017.
+
 ## Statement
 
 This is the demo code of our image retrieval system. The code runs the training and image retrieval phase on CIFAR-10 dataset. After careful tuning of the hyperparameters, the performance can reach the level described in our paper.
